@@ -1,2 +1,2 @@
 # Medium-Writings
-My Medium writings in Markdown
+My Medium writings in Markdown, as converted by [medium-2-md](https://github.com/gautamdhameja/medium-2-md).
