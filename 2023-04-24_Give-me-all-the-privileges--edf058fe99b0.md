@@ -11,7 +11,7 @@ slug: /@simonbrs/give-me-all-the-privileges-edf058fe99b0
 
 **Permission denied** — how often have you seen that in the past week?
 
-For me, the answer would be **almost every day**.
+For me, having just moved into a new position in the company, the answer would be **almost every day**.
 
 If you work for any modern company, chances are that you’ve run into security walls at one point or another. What follows is a flurry of sending messages around to different people, in the hopes of gaining access or someone else solving our problem by the end of the week. And it’s usually not really an isolated occurrence: for some tasks, it sometimes happened to me several times per day that I lacked permission to complete my task.
 

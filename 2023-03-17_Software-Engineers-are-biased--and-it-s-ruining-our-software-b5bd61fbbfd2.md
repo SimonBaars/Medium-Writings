@@ -12,7 +12,7 @@ slug: >-
 
 ![](img/1__PVnwgcbBi1BLuU5flPDHyQ.jpeg)
 
-There are an awful lot of software libraries and developer tools out there. So much that a single developer will never see it all. So we go with what we know. But often, what we know is not always the most optimal for a given problem. At the beginning of a project, that’s fine. But down the line, we’ll run into trouble.
+There are an awful lot of software libraries and developer tools out there. So many that a single developer will never see it all. So we go with what we know. But often, what we know is not always the most optimal for a given problem. At the beginning of a project, that’s fine. But down the line, we’ll run into trouble.
 
 #### Two types of engineers
 

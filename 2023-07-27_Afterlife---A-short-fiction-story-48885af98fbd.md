@@ -1,10 +1,10 @@
 ---
 title: Afterlife — A short fiction story
 description: A fictional story about life after death.
-date: ''
+date: '2023-07-27T10:02:21.417Z'
 categories: []
 keywords: []
-slug: ''
+slug: /@simonbrs/afterlife-a-short-fiction-story-48885af98fbd
 ---
 
 ![](img/1__YEEvbbut7dIoRNJGTesAEQ.jpeg)
